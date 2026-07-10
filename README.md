@@ -142,11 +142,13 @@ NEXT_PUBLIC_API_URL=http://localhost:5001
 
 ### Light Mode
 
-(Add screenshot)
+<img width="1907" height="866" alt="image" src="https://github.com/user-attachments/assets/8f9e4797-330d-4ef6-8d83-7b133ba5e983" />
+
 
 ### Dark Mode
 
-(Add screenshot)
+<img width="1892" height="857" alt="image" src="https://github.com/user-attachments/assets/da6e81b9-0a72-4ddf-9f7c-225363362124" />
+
 
 ---
 
@@ -170,6 +172,6 @@ GitHub:
 https://github.com/tahera2705
 
 LinkedIn:
-(Add your LinkedIn URL)
 
+www.linkedin.com/in/tahera-singaporewala-7721a0311
 ---
