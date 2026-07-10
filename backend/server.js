@@ -1,5 +1,8 @@
 require("dotenv").config();
-
+console.log(
+  "Loaded key:",
+  process.env.GEMINI_API_KEY?.slice(0, 10)
+);
 const express = require("express");
 const cors = require("cors");
 
